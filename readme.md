@@ -127,3 +127,6 @@ At the Neatline dashboard, click on the 'Plugins' tab and then select SIMILE Tim
 - [Tobias Hrynick, The Haskins Society](http://www.haskinssociety.org/omeka-neatline-1)
 - [Alicia Peaker, Building Digital Exhibits in the Classroom with Omeka and Neatline](https://aliciapeaker.wordpress.com/2014/04/28/building-digital-exhibits/)
 - [Wired! at Duke](http://dukewired.org/tutorialFiles/NeatlineManual.pdf)
+
+-----
+###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
