@@ -1,4 +1,5 @@
 #Neatline
+Produced by Brandon Locke
 ##What can you do with Neatline?
 [Neatline](http://neatline.org/) is an exhibit-buiding framework that makes it possible to create beautiful, complex maps and connect them with timelines. Neatline is built as a suite of plugins for the Omeka, a digital archive-building framework that supplies a powerful platform for content management and web publication.
 
@@ -14,7 +15,6 @@ Neatline is great for developing spatial and temporal narratives to illustrate h
 ####Reasearcher-developed Projects
 - [Hotchkiss Maps the Battle of Fredericksburg for his Child](http://hotchkiss.neatline.org/neatline-exhibits/show/my-dear-little-nelly/fullscreen)
 - ["Inventing the Map"](http://henshaw.neatline.org/)
-- [H.P. Lovecraft in Providence](http://lovecraft.neatline.org/neatline-exhibits/show/lovecraft-in-providence/fullscreen)
 
 The developers of Neatline have a list of additional [Neatline Demos](http://neatline.org/demos/) you can explore.
 ##Getting started with Neatline
