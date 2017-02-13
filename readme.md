@@ -3,7 +3,7 @@ Produced by Brandon Locke
 ##What can you do with Neatline?
 [Neatline](http://neatline.org/) is an exhibit-buiding framework that makes it possible to create beautiful, complex maps and connect them with timelines. Neatline is built as a suite of plugins for the Omeka, a digital archive-building framework that supplies a powerful platform for content management and web publication.
 
-Neatline is great for developing spatial and temporal narratives to illustrate how events unfolded over time and space. This tutorial is intended for individuals interested in developing a Neatline-only project - if you are interested in developing a digital collection with Neatline integration, make sure to see our guide on [Omeka](/omeka) as well.
+Neatline is great for developing spatial and temporal narratives to illustrate how events unfolded over time and space. This tutorial is intended for individuals interested in developing a Neatline-only project - if you are interested in developing a digital collection with Neatline integration, make sure to see our guide on [Omeka](https://github.com/leadr-msu/omeka) as well.
 
 ###Examples
 ####Undergraduate-developed Projects
