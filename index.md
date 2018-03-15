@@ -122,4 +122,4 @@ At the Neatline dashboard, click on the 'Plugins' tab and then select SIMILE Tim
 - [Wired! at Duke](http://dukewired.org/tutorialFiles/NeatlineManual.pdf)
 
 -----
-### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/Resources/)
